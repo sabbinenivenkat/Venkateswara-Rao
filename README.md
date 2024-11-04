@@ -1,2 +1,2 @@
 # Venkateswara-Rao
-Assistant Professor
+HOD, Department of CSE
